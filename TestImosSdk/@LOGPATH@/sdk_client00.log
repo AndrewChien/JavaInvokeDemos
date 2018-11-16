@@ -1,0 +1,167 @@
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [] [] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-250] [IMOS_Init]--------------- begin imos init... ---------------
+2018-11-15 13:07:11 [WARNING (1090)] [sdk_client] [] [] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-256] [IMOS_Init]fail to load OEM data, use default value.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-265] [IMOS_Init]current process name is 'sdk_client'.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-274] [IMOS_Init]IMOSROOT = D:\_JavaProjects\TestImosSdk\bin.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-324] [IMOS_Init]img address : 173.173.21.2:8800.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module_impl.cpp-357] [CRemoteModuleMap::updateModuleRegistInfo]updateModuleInfo : IMG_MODULE_INFO 0 0 0 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [] with thread count 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [sdk_client_cmd] with thread count 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module_impl.cpp-357] [CRemoteModuleMap::updateModuleRegistInfo]updateModuleInfo : IMF_INLINE_MODULE 65535 0 254 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-358] [IMOS_Init]proc bind port 20011 succeed.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-374] [IMOS_Init]imos init succeed.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module_impl.cpp-357] [CRemoteModuleMap::updateModuleRegistInfo]updateModuleInfo : VM@iccsid 1 1 56 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [] [] [] [7496.0x1e0c] [sdk_global.cpp-1321] AS module name with prefix 'VM' is VM@iccsid.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [SDK] [SDK_CLIB] [] [7496.0x1e0c] [sdk_global.cpp-1109] SDK module name is SDK@9c5c8e7bf549154225843137618246.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [SDK@9c5c8e7bf549154225843137618246] with thread count 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [SDK_CLIB_SERVICE] with thread count 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7496.0x1e0c] [mpm_sdk_impl.cpp-196] [IMOS_XP_SetWriteLogCB] set player write log callback function finish.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7496.0x1e0c] [mpm_sdk_impl.cpp-247] [IMOS_XP_Init] init player..., ulIndex = 0
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7496.0x1e0c] [common_root_path.cpp-220] [CXPRootPath::resetPath] Reset succeed, added path[D:\_JavaProjects\TestImosSdk\bin/].
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7496.0x1e0c] [common_root_path.cpp-94] [CXPRootPath::setXPDllDirectory] SetDllDirectoryA path is [D:\_JavaProjects\TestImosSdk\bin/]
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7496.0x1e0c] [common_root_path.cpp-303] [addPathThirdPatyOther] Reset succeed, added path[D:\_JavaProjects\TestImosSdk\bin/ThirdPart\other].
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7496.0x1e0c] [common_root_path.cpp-355] [addPathThirdPartFfmpeg] Reset succeed, added path[D:\_JavaProjects\TestImosSdk\bin/ThirdPart\ffmpeg].
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7496.0x1e0c] [common_root_path.cpp-94] [CXPRootPath::setXPDllDirectory] SetDllDirectoryA path is [D:\_JavaProjects\TestImosSdk\bin/ThirdPart\other]
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7496.0x1e0c] [mpm_dll_mgr.cpp-867] [CFilterDllMgr::readConfFile] Serching dll in the XML file[FileName: D:\_JavaProjects\TestImosSdk\bin/FiltersConf.xml] succeed
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7496.0x1e0c] [mpm_sdk_impl.cpp-296] [IMOS_XP_Init] init player finish.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7496.0x39f8] [mpm_svc_proc_task.h-494] [CPlayerProcSvcCmdTask::svc] Process svc method object thread begin...
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7496.0x1e0c] [mpm_sdk_impl.cpp-432] [IMOS_XP_SetPlayerMultiRunMsgCB] set run message callback function to XP finish.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [XP_AS@9c5c8e7bf549154225843137618246] with thread count 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [XP_MC@9c5c8e7bf549154225843137618246] with thread count 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [CC] [] [] [7496.0x1e0c] [imos_cc_global_main.cpp-933] [CC_GB][GB_SetSIPTransPortMode]Set sip message send transport: 0
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_GM@9c5c8e7bf549154225843137618246] with thread count 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_SM@9c5c8e7bf549154225843137618246] with thread count 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_SA@9c5c8e7bf549154225843137618246] with thread count 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [CC] [] [] [7496.0x1e0c] [imos_cc_sadpt_tucl.cpp-380] [CC_SA][SA_OpenSrvSocket]The openning udp socket srv port is 7001.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [CC] [] [] [7496.0x1e0c] [imos_cc_sadpt_tucl.cpp-381] [CC_SA][SA_OpenSrvSocket]The openning tcp socket srv port is 7001.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [CC] [] [] [7496.0x1e0c] [imos_cc_sadpt_tucl.cpp-419] [CC_SA][SA_OpenSrvSocket]UDP Open Socket :gulSendCtrlBlockID is 1, gulCBGrpID is 1001
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [CC] [] [] [7496.0x1e0c] [imos_cc_sadpt_tucl.cpp-424] [CC_SA][SA_OpenSrvSocket]TCP Open Socket :gulSendCtrlBlockTCPID is 1, gulCBGrpTCPID is 1002
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_RM@9c5c8e7bf549154225843137618246] with thread count 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_RA@9c5c8e7bf549154225843137618246] with thread count 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [XP_CC@9c5c8e7bf549154225843137618246] with thread count 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_MBUS@9c5c8e7bf549154225843137618246] with thread count 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x1e0c] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_ABUS@9c5c8e7bf549154225843137618246] with thread count 1.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [XP] [XP_MCM] [] [7496.0x1e0c] [mcm_sdk_impl.cpp-329] [IMOS_COMMON_Start] start XP...
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [XP] [XP_PPM] [] [7496.0x1e0c] [mcm_port_mgr.h-744] [CXPPortRes::setInitFlag] Set Init flag 1, current count is 1
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [XP] [XP_MCM] [] [7496.0x1e0c] [mcm_sdk_impl_new.cpp-232] [IMOS_InitXP] IMOS_InitXP:9c5c8e7bf549154225843137618246 succeed.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [SDK] [SDK_CLIB] [] [7496.0x1e0c] [sdk_global.cpp-2080] Init succeed with ip address (173.173.21.2).
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [XP] [XP_COMMON] [] [7496.0x4b44] [common_svc_proc_task.h-494] [CXPProcSvcCmdTask::svc] Process svc method object thread begin.
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7496.0x2e8c] [..\..\src\bp\src\bp_commu\bp_module.cpp-424] [IMOS_Start]start handle event loop...
+2018-11-15 13:07:11 [INFO (0)] [sdk_client] [SDK] [SDK_CLIB] [] [7496.0x1e0c] [sdk_global.cpp-2101] Init SDK successfully.gulSDKClibModuleID:434172696
+2018-11-15 13:07:50 [INFO (0)] [sdk_client] [] [] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-250] [IMOS_Init]--------------- begin imos init... ---------------
+2018-11-15 13:07:50 [WARNING (1090)] [sdk_client] [] [] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-256] [IMOS_Init]fail to load OEM data, use default value.
+2018-11-15 13:07:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-265] [IMOS_Init]current process name is 'sdk_client'.
+2018-11-15 13:07:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-274] [IMOS_Init]IMOSROOT = D:\_JavaProjects\TestImosSdk\bin.
+2018-11-15 13:07:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-324] [IMOS_Init]img address : 173.173.21.2:8800.
+2018-11-15 13:07:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module_impl.cpp-357] [CRemoteModuleMap::updateModuleRegistInfo]updateModuleInfo : IMG_MODULE_INFO 0 0 0 1.
+2018-11-15 13:07:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [] with thread count 1.
+2018-11-15 13:07:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [sdk_client_cmd] with thread count 1.
+2018-11-15 13:07:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module_impl.cpp-357] [CRemoteModuleMap::updateModuleRegistInfo]updateModuleInfo : IMF_INLINE_MODULE 65535 0 254 1.
+2018-11-15 13:07:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-358] [IMOS_Init]proc bind port 20011 succeed.
+2018-11-15 13:07:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-374] [IMOS_Init]imos init succeed.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module_impl.cpp-357] [CRemoteModuleMap::updateModuleRegistInfo]updateModuleInfo : VM@iccsid 1 1 56 1.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [] [] [] [16116.0x27a8] [sdk_global.cpp-1321] AS module name with prefix 'VM' is VM@iccsid.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [SDK] [SDK_CLIB] [] [16116.0x27a8] [sdk_global.cpp-1109] SDK module name is SDK@9c5c8e7bf5491542258471920129.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [SDK@9c5c8e7bf5491542258471920129] with thread count 1.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [SDK_CLIB_SERVICE] with thread count 1.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [16116.0x27a8] [mpm_sdk_impl.cpp-196] [IMOS_XP_SetWriteLogCB] set player write log callback function finish.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [16116.0x27a8] [mpm_sdk_impl.cpp-247] [IMOS_XP_Init] init player..., ulIndex = 0
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [16116.0x27a8] [common_root_path.cpp-220] [CXPRootPath::resetPath] Reset succeed, added path[D:\_JavaProjects\TestImosSdk\bin/].
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [16116.0x27a8] [common_root_path.cpp-94] [CXPRootPath::setXPDllDirectory] SetDllDirectoryA path is [D:\_JavaProjects\TestImosSdk\bin/]
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [16116.0x27a8] [common_root_path.cpp-303] [addPathThirdPatyOther] Reset succeed, added path[D:\_JavaProjects\TestImosSdk\bin/ThirdPart\other].
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [16116.0x27a8] [common_root_path.cpp-355] [addPathThirdPartFfmpeg] Reset succeed, added path[D:\_JavaProjects\TestImosSdk\bin/ThirdPart\ffmpeg].
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [16116.0x27a8] [common_root_path.cpp-94] [CXPRootPath::setXPDllDirectory] SetDllDirectoryA path is [D:\_JavaProjects\TestImosSdk\bin/ThirdPart\other]
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [16116.0x27a8] [mpm_dll_mgr.cpp-867] [CFilterDllMgr::readConfFile] Serching dll in the XML file[FileName: D:\_JavaProjects\TestImosSdk\bin/FiltersConf.xml] succeed
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [16116.0x27a8] [mpm_sdk_impl.cpp-296] [IMOS_XP_Init] init player finish.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [16116.0x27a8] [mpm_sdk_impl.cpp-432] [IMOS_XP_SetPlayerMultiRunMsgCB] set run message callback function to XP finish.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [16116.0x1cb4] [mpm_svc_proc_task.h-494] [CPlayerProcSvcCmdTask::svc] Process svc method object thread begin...
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [XP_AS@9c5c8e7bf5491542258471920129] with thread count 1.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [XP_MC@9c5c8e7bf5491542258471920129] with thread count 1.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [CC] [] [] [16116.0x27a8] [imos_cc_global_main.cpp-933] [CC_GB][GB_SetSIPTransPortMode]Set sip message send transport: 0
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_GM@9c5c8e7bf5491542258471920129] with thread count 1.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_SM@9c5c8e7bf5491542258471920129] with thread count 1.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_SA@9c5c8e7bf5491542258471920129] with thread count 1.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [CC] [] [] [16116.0x27a8] [imos_cc_sadpt_tucl.cpp-380] [CC_SA][SA_OpenSrvSocket]The openning udp socket srv port is 7001.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [CC] [] [] [16116.0x27a8] [imos_cc_sadpt_tucl.cpp-381] [CC_SA][SA_OpenSrvSocket]The openning tcp socket srv port is 7001.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [CC] [] [] [16116.0x27a8] [imos_cc_sadpt_tucl.cpp-419] [CC_SA][SA_OpenSrvSocket]UDP Open Socket :gulSendCtrlBlockID is 1, gulCBGrpID is 1001
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [CC] [] [] [16116.0x27a8] [imos_cc_sadpt_tucl.cpp-424] [CC_SA][SA_OpenSrvSocket]TCP Open Socket :gulSendCtrlBlockTCPID is 1, gulCBGrpTCPID is 1002
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_RM@9c5c8e7bf5491542258471920129] with thread count 1.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_RA@9c5c8e7bf5491542258471920129] with thread count 1.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [XP_CC@9c5c8e7bf5491542258471920129] with thread count 1.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_MBUS@9c5c8e7bf5491542258471920129] with thread count 1.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x27a8] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_ABUS@9c5c8e7bf5491542258471920129] with thread count 1.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [XP] [XP_MCM] [] [16116.0x27a8] [mcm_sdk_impl.cpp-329] [IMOS_COMMON_Start] start XP...
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [XP] [XP_PPM] [] [16116.0x27a8] [mcm_port_mgr.h-744] [CXPPortRes::setInitFlag] Set Init flag 1, current count is 1
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [XP] [XP_MCM] [] [16116.0x27a8] [mcm_sdk_impl_new.cpp-232] [IMOS_InitXP] IMOS_InitXP:9c5c8e7bf5491542258471920129 succeed.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [SDK] [SDK_CLIB] [] [16116.0x27a8] [sdk_global.cpp-2080] Init succeed with ip address (173.173.21.2).
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [XP] [XP_COMMON] [] [16116.0x2ea0] [common_svc_proc_task.h-494] [CXPProcSvcCmdTask::svc] Process svc method object thread begin.
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [BP] [COMMU] [] [16116.0x3808] [..\..\src\bp\src\bp_commu\bp_module.cpp-424] [IMOS_Start]start handle event loop...
+2018-11-15 13:07:51 [INFO (0)] [sdk_client] [SDK] [SDK_CLIB] [] [16116.0x27a8] [sdk_global.cpp-2101] Init SDK successfully.gulSDKClibModuleID:433451032
+2018-11-15 13:10:43 [INFO (0)] [sdk_client] [] [] [] [3952.0x4bfc] [..\..\src\bp\src\bp_commu\bp_module.cpp-250] [IMOS_Init]--------------- begin imos init... ---------------
+2018-11-15 13:10:43 [WARNING (1090)] [sdk_client] [] [] [] [3952.0x4bfc] [..\..\src\bp\src\bp_commu\bp_module.cpp-256] [IMOS_Init]fail to load OEM data, use default value.
+2018-11-15 13:10:43 [INFO (0)] [sdk_client] [BP] [COMMU] [] [3952.0x4bfc] [..\..\src\bp\src\bp_commu\bp_module.cpp-265] [IMOS_Init]current process name is 'sdk_client'.
+2018-11-15 13:10:43 [INFO (0)] [sdk_client] [BP] [COMMU] [] [3952.0x4bfc] [..\..\src\bp\src\bp_commu\bp_module.cpp-274] [IMOS_Init]IMOSROOT = D:\_JavaProjects\TestImosSdk\bin.
+2018-11-15 13:10:43 [ERROR (1)] [sdk_client] [BP] [COMMU] [] [3952.0x4bfc] [..\..\src\bp\src\bp_commu\bp_module.cpp-296] [IMOS_Init]fail to init appmgr. proc id is 100, imf-err:-1
+2018-11-15 13:10:43 [FATAL (849)] [sdk_client] [] [] [] [3952.0x4bfc] [sdk_global.cpp-1311] Failed to call IMOS_init.
+2018-11-15 13:10:43 [INFO (0)] [sdk_client] [] [] [] [3952.0x4bfc] [sdk_global.cpp-2281] Init succeed with ip address (173.173.21.2Hû’	ê å).
+2018-11-15 13:10:43 [FATAL (3862)] [sdk_client] [] [] [] [3952.0x4bfc] [sdk_global.cpp-2320] User: init SDK failed.
+2018-11-15 13:10:48 [INFO (0)] [sdk_client] [] [] [] [6708.0x1a6c] [..\..\src\bp\src\bp_commu\bp_module.cpp-250] [IMOS_Init]--------------- begin imos init... ---------------
+2018-11-15 13:10:48 [WARNING (1090)] [sdk_client] [] [] [] [6708.0x1a6c] [..\..\src\bp\src\bp_commu\bp_module.cpp-256] [IMOS_Init]fail to load OEM data, use default value.
+2018-11-15 13:10:48 [INFO (0)] [sdk_client] [BP] [COMMU] [] [6708.0x1a6c] [..\..\src\bp\src\bp_commu\bp_module.cpp-265] [IMOS_Init]current process name is 'sdk_client'.
+2018-11-15 13:10:48 [INFO (0)] [sdk_client] [BP] [COMMU] [] [6708.0x1a6c] [..\..\src\bp\src\bp_commu\bp_module.cpp-274] [IMOS_Init]IMOSROOT = D:\_JavaProjects\TestImosSdk\bin.
+2018-11-15 13:10:48 [ERROR (1)] [sdk_client] [BP] [COMMU] [] [6708.0x1a6c] [..\..\src\bp\src\bp_commu\bp_module.cpp-296] [IMOS_Init]fail to init appmgr. proc id is 100, imf-err:-1
+2018-11-15 13:10:48 [FATAL (849)] [sdk_client] [] [] [] [6708.0x1a6c] [sdk_global.cpp-1311] Failed to call IMOS_init.
+2018-11-15 13:10:48 [INFO (0)] [sdk_client] [] [] [] [6708.0x1a6c] [sdk_global.cpp-2281] Init succeed with ip address (173.173.21.2¯∞s).
+2018-11-15 13:10:48 [FATAL (3862)] [sdk_client] [] [] [] [6708.0x1a6c] [sdk_global.cpp-2320] User: init SDK failed.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [] [] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-250] [IMOS_Init]--------------- begin imos init... ---------------
+2018-11-15 13:10:50 [WARNING (1090)] [sdk_client] [] [] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-256] [IMOS_Init]fail to load OEM data, use default value.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-265] [IMOS_Init]current process name is 'sdk_client'.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-274] [IMOS_Init]IMOSROOT = D:\_JavaProjects\TestImosSdk\bin.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-324] [IMOS_Init]img address : 173.173.21.2:8800.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module_impl.cpp-357] [CRemoteModuleMap::updateModuleRegistInfo]updateModuleInfo : IMG_MODULE_INFO 0 0 0 1.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [] with thread count 1.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [sdk_client_cmd] with thread count 1.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module_impl.cpp-357] [CRemoteModuleMap::updateModuleRegistInfo]updateModuleInfo : IMF_INLINE_MODULE 65535 0 254 1.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-358] [IMOS_Init]proc bind port 20011 succeed.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-374] [IMOS_Init]imos init succeed.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module_impl.cpp-357] [CRemoteModuleMap::updateModuleRegistInfo]updateModuleInfo : VM@iccsid 1 1 56 1.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [] [] [] [7692.0x2318] [sdk_global.cpp-1414] AS module name with prefix 'VM' is VM@iccsid.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [SDK] [SDK_CLIB] [] [7692.0x2318] [sdk_global.cpp-1202] SDK module name is SDK@9c5c8e7bf549154225865075915431.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [SDK@9c5c8e7bf549154225865075915431] with thread count 1.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [SDK_CLIB_SERVICE] with thread count 1.
+2018-11-15 13:10:50 [ERROR (1)] [sdk_client] [] [] [] [7692.0x2318] [..\..\nd\nd\mas_nd_init.cpp-161] Failed to get stor mode.
+2018-11-15 13:10:50 [FATAL (1)] [sdk_client] [] [] [] [7692.0x2318] [..\..\nd\nd\mas_nd_init.cpp-649] Failed to get pdt cfg.
+2018-11-15 13:10:50 [ERROR (1)] [sdk_client] [] [] [] [7692.0x2318] [..\..\nd\nd\mas_nd_init.cpp-161] Failed to get stor mode.
+2018-11-15 13:10:50 [FATAL (1)] [sdk_client] [] [] [] [7692.0x2318] [..\..\nd\nd\mas_nd_init.cpp-649] Failed to get pdt cfg.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7692.0x2318] [mpm_sdk_impl.cpp-196] [IMOS_XP_SetWriteLogCB] set player write log callback function finish.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7692.0x2318] [mpm_sdk_impl.cpp-247] [IMOS_XP_Init] init player..., ulIndex = 0
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7692.0x2318] [common_root_path.cpp-220] [CXPRootPath::resetPath] Reset succeed, added path[D:\_JavaProjects\TestImosSdk\bin/].
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7692.0x2318] [common_root_path.cpp-94] [CXPRootPath::setXPDllDirectory] SetDllDirectoryA path is [D:\_JavaProjects\TestImosSdk\bin/]
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7692.0x2318] [common_root_path.cpp-303] [addPathThirdPatyOther] Reset succeed, added path[D:\_JavaProjects\TestImosSdk\bin/ThirdPart\other].
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7692.0x2318] [common_root_path.cpp-355] [addPathThirdPartFfmpeg] Reset succeed, added path[D:\_JavaProjects\TestImosSdk\bin/ThirdPart\ffmpeg].
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7692.0x2318] [common_root_path.cpp-94] [CXPRootPath::setXPDllDirectory] SetDllDirectoryA path is [D:\_JavaProjects\TestImosSdk\bin/ThirdPart\other]
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7692.0x2318] [mpm_dll_mgr.cpp-867] [CFilterDllMgr::readConfFile] Serching dll in the XML file[FileName: D:\_JavaProjects\TestImosSdk\bin/FiltersConf.xml] succeed
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7692.0x2318] [mpm_sdk_impl.cpp-296] [IMOS_XP_Init] init player finish.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7692.0x468c] [mpm_svc_proc_task.h-494] [CPlayerProcSvcCmdTask::svc] Process svc method object thread begin...
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [XP] [XP_MPM] [] [7692.0x2318] [mpm_sdk_impl.cpp-432] [IMOS_XP_SetPlayerMultiRunMsgCB] set run message callback function to XP finish.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [XP_AS@9c5c8e7bf549154225865075915431] with thread count 1.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [XP_MC@9c5c8e7bf549154225865075915431] with thread count 1.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [CC] [] [] [7692.0x2318] [imos_cc_global_main.cpp-933] [CC_GB][GB_SetSIPTransPortMode]Set sip message send transport: 0
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_GM@9c5c8e7bf549154225865075915431] with thread count 1.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_SM@9c5c8e7bf549154225865075915431] with thread count 1.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_SA@9c5c8e7bf549154225865075915431] with thread count 1.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [CC] [] [] [7692.0x2318] [imos_cc_sadpt_tucl.cpp-380] [CC_SA][SA_OpenSrvSocket]The openning udp socket srv port is 7001.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [CC] [] [] [7692.0x2318] [imos_cc_sadpt_tucl.cpp-381] [CC_SA][SA_OpenSrvSocket]The openning tcp socket srv port is 7001.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [CC] [] [] [7692.0x2318] [imos_cc_sadpt_tucl.cpp-419] [CC_SA][SA_OpenSrvSocket]UDP Open Socket :gulSendCtrlBlockID is 1, gulCBGrpID is 1001
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [CC] [] [] [7692.0x2318] [imos_cc_sadpt_tucl.cpp-424] [CC_SA][SA_OpenSrvSocket]TCP Open Socket :gulSendCtrlBlockTCPID is 1, gulCBGrpTCPID is 1002
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_RM@9c5c8e7bf549154225865075915431] with thread count 1.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_RA@9c5c8e7bf549154225865075915431] with thread count 1.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [XP_CC@9c5c8e7bf549154225865075915431] with thread count 1.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_MBUS@9c5c8e7bf549154225865075915431] with thread count 1.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x2318] [..\..\src\bp\src\bp_commu\bp_module.cpp-85] [BP_RegistModule]regist module [CC_ABUS@9c5c8e7bf549154225865075915431] with thread count 1.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [XP] [XP_MCM] [] [7692.0x2318] [mcm_sdk_impl.cpp-329] [IMOS_COMMON_Start] start XP...
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [XP] [XP_PPM] [] [7692.0x2318] [mcm_port_mgr.h-744] [CXPPortRes::setInitFlag] Set Init flag 1, current count is 1
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [XP] [XP_MCM] [] [7692.0x2318] [mcm_sdk_impl_new.cpp-232] [IMOS_InitXP] IMOS_InitXP:9c5c8e7bf549154225865075915431 succeed.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [SDK] [SDK_CLIB] [] [7692.0x2318] [sdk_global.cpp-2281] Init succeed with ip address (173.173.21.2).
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [XP] [XP_COMMON] [] [7692.0x1130] [common_svc_proc_task.h-494] [CXPProcSvcCmdTask::svc] Process svc method object thread begin.
+2018-11-15 13:10:50 [INFO (0)] [sdk_client] [BP] [COMMU] [] [7692.0x4748] [..\..\src\bp\src\bp_commu\bp_module.cpp-424] [IMOS_Start]start handle event loop...
+2018-11-15 13:10:51 [INFO (0)] [sdk_client] [SDK] [SDK_CLIB] [] [7692.0x2318] [sdk_global.cpp-2302] Init SDK successfully.gulSDKClibModuleID:434444160

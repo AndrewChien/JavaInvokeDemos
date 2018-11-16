@@ -1,0 +1,99 @@
+2018-11-15 13:07:11.190 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:07:11.190 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:07:11.344 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-15 13:07:11.345 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-15 13:07:11.345 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-15 13:07:11.347 CImfAcceptorHandler::bindPort successful bind port: 20011
+2018-11-15 13:07:11.190 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-15 13:07:11.339 CImfConnection::connect register successful. OppProcID: 0 OppProcHandle: 0
+2018-11-15 13:07:11.347 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-15 13:07:11.487 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 13:07:11.927 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 13:07:11.927 begin to handle events.........
+2018-11-15 13:07:12.916 task 0:33 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:07:12.916 task 0:33 return, use:0 S
+2018-11-15 13:07:12.916 task 0:33 deleted
+2018-11-15 13:07:18.064 CImfTaskMgr::addAssistTask taskmgr 254 add assist task 33
+2018-11-15 13:07:18.064 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_SYNWAIT
+2018-11-15 13:07:18.064 task 2:33 created, cmd:0, len:1012, src[65535,93,254,33]
+2018-11-15 13:07:18.064 task 2:33 return, use:0 S
+2018-11-15 13:07:18.064 task 2:33 deleted
+2018-11-15 13:07:18.127 task 2:34 created, cmd:0, len:192, src[1,1,23,30495]
+2018-11-15 13:07:18.127 CImfTaskMgr::enqueueMsg task 254:33 awoken, cmd:0
+2018-11-15 13:07:18.127 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_EXEC
+2018-11-15 13:07:18.127 task 254:33 deleted
+2018-11-15 13:07:18.127 task 2:34 return, use:0 S
+2018-11-15 13:07:18.127 task 2:34 deleted
+2018-11-15 13:07:18.127 task 2:35 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:07:18.127 task 2:35 return, use:0 S
+2018-11-15 13:07:18.127 task 2:35 deleted
+2018-11-15 13:07:50.854 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:07:50.854 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:07:50.996 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-15 13:07:50.997 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-15 13:07:50.997 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-15 13:07:50.998 CImfAcceptorHandler::bindPort successful bind port: 20011
+2018-11-15 13:07:50.854 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-15 13:07:50.994 CImfConnection::connect register successful. OppProcID: 0 OppProcHandle: 0
+2018-11-15 13:07:50.998 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-15 13:07:51.053 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 13:07:51.231 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 13:07:51.231 begin to handle events.........
+2018-11-15 13:07:52.223 task 0:33 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:07:52.223 task 0:33 return, use:0 S
+2018-11-15 13:07:52.223 task 0:33 deleted
+2018-11-15 13:07:54.404 CImfTaskMgr::addAssistTask taskmgr 254 add assist task 33
+2018-11-15 13:07:54.404 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_SYNWAIT
+2018-11-15 13:07:54.404 task 2:33 created, cmd:0, len:1012, src[65535,94,254,33]
+2018-11-15 13:07:54.405 task 2:33 return, use:0 S
+2018-11-15 13:07:54.405 task 2:33 deleted
+2018-11-15 13:07:54.424 task 2:34 created, cmd:0, len:192, src[1,1,23,30502]
+2018-11-15 13:07:54.424 CImfTaskMgr::enqueueMsg task 254:33 awoken, cmd:0
+2018-11-15 13:07:54.424 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_EXEC
+2018-11-15 13:07:54.424 task 254:33 deleted
+2018-11-15 13:07:54.424 task 2:34 return, use:0 S
+2018-11-15 13:07:54.424 task 2:34 deleted
+2018-11-15 13:07:54.424 task 2:35 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:07:54.424 task 2:35 return, use:0 S
+2018-11-15 13:07:54.424 task 2:35 deleted
+2018-11-15 13:08:20.999 task 0:34 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:08:20.999 task 0:34 return, use:0 S
+2018-11-15 13:08:20.999 task 0:34 deleted
+2018-11-15 13:08:21.064 task 8:33 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:08:21.064 task 8:33 return, use:0 S
+2018-11-15 13:08:21.064 task 8:33 deleted
+2018-11-15 13:10:43.821 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:10:43.821 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:10:43.822 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-15 13:10:48.782 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:10:48.782 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:10:48.894 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-15 13:10:50.612 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:10:50.612 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:10:50.743 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-15 13:10:50.743 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-15 13:10:50.743 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-15 13:10:50.745 CImfAcceptorHandler::bindPort successful bind port: 20011
+2018-11-15 13:10:50.612 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-15 13:10:50.741 CImfConnection::connect register successful. OppProcID: 0 OppProcHandle: 0
+2018-11-15 13:10:50.745 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-15 13:10:50.862 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 13:10:51.231 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 13:10:51.231 begin to handle events.........
+2018-11-15 13:10:52.222 task 0:33 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:10:52.222 task 0:33 return, use:0 S
+2018-11-15 13:10:52.222 task 0:33 deleted
+2018-11-15 13:10:53.976 CImfTaskMgr::addAssistTask taskmgr 254 add assist task 33
+2018-11-15 13:10:53.976 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_SYNWAIT
+2018-11-15 13:10:53.976 task 2:33 created, cmd:0, len:1012, src[65535,96,254,33]
+2018-11-15 13:10:53.976 task 2:33 return, use:0 S
+2018-11-15 13:10:53.976 task 2:33 deleted
+2018-11-15 13:10:53.988 task 2:34 created, cmd:0, len:192, src[1,1,23,30558]
+2018-11-15 13:10:53.988 CImfTaskMgr::enqueueMsg task 254:33 awoken, cmd:0
+2018-11-15 13:10:53.988 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_EXEC
+2018-11-15 13:10:53.988 task 254:33 deleted
+2018-11-15 13:10:53.988 task 2:34 return, use:0 S
+2018-11-15 13:10:53.988 task 2:34 deleted
+2018-11-15 13:10:53.988 task 2:35 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:10:53.988 task 2:35 return, use:0 S
+2018-11-15 13:10:53.988 task 2:35 deleted

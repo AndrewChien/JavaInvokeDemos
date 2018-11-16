@@ -1,0 +1,1046 @@
+2018-11-14 17:01:13.065 main: IMFRcvBufferLength = 131072.
+2018-11-14 17:01:13.065 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-14 17:01:13.067 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-14 17:01:13.067 CImfConnMgr::initConn2Img Invalid img address. IP: ญญ	ฐ Port: 8800
+2018-11-14 17:07:39.059 main: IMFRcvBufferLength = 131072.
+2018-11-14 17:07:39.059 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-14 17:07:39.060 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-14 17:07:39.060 CImfConnMgr::initConn2Img Invalid img address. IP: ญญฐ Port: 8800
+2018-11-14 17:25:34.814 main: IMFRcvBufferLength = 131072.
+2018-11-14 17:25:34.814 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-14 17:25:34.816 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-14 17:25:34.816 CImfConnMgr::initConn2Img Invalid img address. IP: 173.173.21.2ava/j4<๑/z Port: 8800
+2018-11-14 17:28:17.976 main: IMFRcvBufferLength = 131072.
+2018-11-14 17:28:17.976 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-14 17:28:18.252 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-14 17:28:18.252 CImfConnMgr::initConn2Img Invalid img address. IP: 173.173.21.2๘ฐ Port: 8800
+2018-11-15 13:09:39.116 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:09:39.116 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:09:39.674 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-15 13:09:39.675 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-15 13:09:39.675 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-15 13:09:39.116 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-15 13:09:39.670 CImfConnection::connect register successful. OppProcID: 0 OppProcHandle: 0
+2018-11-15 13:09:39.678 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-15 13:09:39.947 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 13:09:40.144 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 13:09:40.144 begin to handle events.........
+2018-11-15 13:09:41.134 task 0:33 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:09:41.134 task 0:33 return, use:0 S
+2018-11-15 13:09:41.134 task 0:33 deleted
+2018-11-15 13:09:43.977 CImfTaskMgr::addAssistTask taskmgr 254 add assist task 33
+2018-11-15 13:09:43.977 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_SYNWAIT
+2018-11-15 13:09:43.977 task 2:33 created, cmd:0, len:1012, src[65535,95,254,33]
+2018-11-15 13:09:43.977 task 2:33 return, use:0 S
+2018-11-15 13:09:43.977 task 2:33 deleted
+2018-11-15 13:09:44.000 task 2:34 created, cmd:0, len:192, src[1,1,23,30533]
+2018-11-15 13:09:44.000 CImfTaskMgr::enqueueMsg task 254:33 awoken, cmd:0
+2018-11-15 13:09:44.000 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_EXEC
+2018-11-15 13:09:44.000 task 254:33 deleted
+2018-11-15 13:09:44.000 task 2:34 return, use:0 S
+2018-11-15 13:09:44.000 task 2:34 deleted
+2018-11-15 13:09:44.000 task 2:35 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:09:44.000 task 2:35 return, use:0 S
+2018-11-15 13:09:44.000 task 2:35 deleted
+2018-11-15 13:11:25.174 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:11:25.174 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:11:25.218 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-15 13:11:27.765 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:11:27.765 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:11:27.766 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-15 13:11:28.694 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:11:28.694 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:11:28.696 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-15 13:11:29.510 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:11:29.511 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:11:29.512 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-15 13:11:30.362 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:11:30.362 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:11:30.475 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-15 13:11:31.602 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:11:31.602 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:11:32.692 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-15 13:11:32.692 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-15 13:11:32.692 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-15 13:11:31.603 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-15 13:11:32.687 CImfConnection::connect register successful. OppProcID: 0 OppProcHandle: 0
+2018-11-15 13:11:32.695 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-15 13:11:32.848 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 13:11:33.048 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 13:11:33.048 begin to handle events.........
+2018-11-15 13:11:34.041 task 0:33 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:11:34.041 task 0:33 return, use:0 S
+2018-11-15 13:11:34.041 task 0:33 deleted
+2018-11-15 13:11:34.868 CImfTaskMgr::addAssistTask taskmgr 254 add assist task 33
+2018-11-15 13:11:34.868 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_SYNWAIT
+2018-11-15 13:11:34.868 task 2:33 created, cmd:0, len:1012, src[65535,97,254,33]
+2018-11-15 13:11:34.869 task 2:33 return, use:0 S
+2018-11-15 13:11:34.869 task 2:33 deleted
+2018-11-15 13:11:34.884 task 2:34 created, cmd:0, len:192, src[1,1,23,30571]
+2018-11-15 13:11:34.884 CImfTaskMgr::enqueueMsg task 254:33 awoken, cmd:0
+2018-11-15 13:11:34.884 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_EXEC
+2018-11-15 13:11:34.884 task 254:33 deleted
+2018-11-15 13:11:34.884 task 2:34 return, use:0 S
+2018-11-15 13:11:34.884 task 2:34 deleted
+2018-11-15 13:11:34.884 task 2:35 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:11:34.884 task 2:35 return, use:0 S
+2018-11-15 13:11:34.884 task 2:35 deleted
+2018-11-15 13:12:15.825 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:12:15.825 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:12:16.452 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-15 13:12:16.452 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-15 13:12:16.453 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-15 13:12:15.825 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-15 13:12:16.450 CImfConnection::connect register successful. OppProcID: 0 OppProcHandle: 0
+2018-11-15 13:12:16.454 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-15 13:12:16.796 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 13:12:16.994 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 13:12:16.994 begin to handle events.........
+2018-11-15 13:12:17.987 task 0:33 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:12:17.987 task 0:33 return, use:0 S
+2018-11-15 13:12:17.987 task 0:33 deleted
+2018-11-15 13:12:20.476 CImfTaskMgr::addAssistTask taskmgr 254 add assist task 33
+2018-11-15 13:12:20.476 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_SYNWAIT
+2018-11-15 13:12:20.476 task 2:33 created, cmd:0, len:1012, src[65535,98,254,33]
+2018-11-15 13:12:20.476 task 2:33 return, use:0 S
+2018-11-15 13:12:20.476 task 2:33 deleted
+2018-11-15 13:12:20.501 task 2:34 created, cmd:0, len:192, src[1,1,23,30590]
+2018-11-15 13:12:20.501 CImfTaskMgr::enqueueMsg task 254:33 awoken, cmd:0
+2018-11-15 13:12:20.501 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_EXEC
+2018-11-15 13:12:20.501 task 254:33 deleted
+2018-11-15 13:12:20.501 task 2:34 return, use:0 S
+2018-11-15 13:12:20.501 task 2:34 deleted
+2018-11-15 13:12:20.501 task 2:35 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:12:20.501 task 2:35 return, use:0 S
+2018-11-15 13:12:20.501 task 2:35 deleted
+2018-11-15 13:17:28.541 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:17:28.541 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:17:28.646 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-15 13:17:31.986 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:17:31.986 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:17:32.022 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-15 13:17:33.444 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:17:33.444 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:17:33.582 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-15 13:17:33.582 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-15 13:17:33.582 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-15 13:17:33.445 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-15 13:17:33.579 CImfConnection::connect register successful. OppProcID: 0 OppProcHandle: 0
+2018-11-15 13:17:33.584 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-15 13:17:33.710 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 13:17:33.926 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 13:17:33.926 begin to handle events.........
+2018-11-15 13:17:34.916 task 0:33 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:17:34.916 task 0:33 return, use:0 S
+2018-11-15 13:17:34.916 task 0:33 deleted
+2018-11-15 13:17:41.293 CImfTaskMgr::addAssistTask taskmgr 254 add assist task 33
+2018-11-15 13:17:41.293 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_SYNWAIT
+2018-11-15 13:17:41.293 task 2:33 created, cmd:0, len:1012, src[65535,99,254,33]
+2018-11-15 13:17:41.293 task 2:33 return, use:0 S
+2018-11-15 13:17:41.293 task 2:33 deleted
+2018-11-15 13:17:41.307 task 2:34 created, cmd:0, len:192, src[1,1,23,30681]
+2018-11-15 13:17:41.307 CImfTaskMgr::enqueueMsg task 254:33 awoken, cmd:0
+2018-11-15 13:17:41.307 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_EXEC
+2018-11-15 13:17:41.307 task 254:33 deleted
+2018-11-15 13:17:41.307 task 2:34 return, use:0 S
+2018-11-15 13:17:41.307 task 2:34 deleted
+2018-11-15 13:17:41.307 task 2:35 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:17:41.307 task 2:35 return, use:0 S
+2018-11-15 13:17:41.307 task 2:35 deleted
+2018-11-15 13:23:44.934 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:23:44.934 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:23:44.981 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-15 13:23:48.330 main: IMFRcvBufferLength = 131072.
+2018-11-15 13:23:48.330 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 13:23:48.450 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-15 13:23:48.450 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-15 13:23:48.450 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-15 13:23:48.330 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-15 13:23:48.447 CImfConnection::connect register successful. OppProcID: 0 OppProcHandle: 0
+2018-11-15 13:23:48.452 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-15 13:23:48.533 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 13:23:48.836 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 13:23:48.836 begin to handle events.........
+2018-11-15 13:23:49.823 task 0:33 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:23:49.823 task 0:33 return, use:0 S
+2018-11-15 13:23:49.823 task 0:33 deleted
+2018-11-15 13:23:53.486 CImfTaskMgr::addAssistTask taskmgr 254 add assist task 33
+2018-11-15 13:23:53.486 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_SYNWAIT
+2018-11-15 13:23:53.486 task 2:33 created, cmd:0, len:1012, src[65535,100,254,33]
+2018-11-15 13:23:53.486 task 2:33 return, use:0 S
+2018-11-15 13:23:53.486 task 2:33 deleted
+2018-11-15 13:23:53.502 task 2:34 created, cmd:0, len:192, src[1,1,23,30796]
+2018-11-15 13:23:53.502 CImfTaskMgr::enqueueMsg task 254:33 awoken, cmd:0
+2018-11-15 13:23:53.502 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_EXEC
+2018-11-15 13:23:53.502 task 254:33 deleted
+2018-11-15 13:23:53.502 task 2:34 return, use:0 S
+2018-11-15 13:23:53.502 task 2:34 deleted
+2018-11-15 13:23:53.502 task 2:35 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:23:53.502 task 2:35 return, use:0 S
+2018-11-15 13:23:53.502 task 2:35 deleted
+2018-11-15 13:24:18.451 task 0:34 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:24:18.451 task 0:34 return, use:0 S
+2018-11-15 13:24:18.451 task 0:34 deleted
+2018-11-15 13:24:18.541 task 8:33 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:24:18.541 task 8:33 return, use:0 S
+2018-11-15 13:24:18.541 task 8:33 deleted
+2018-11-15 13:24:48.452 task 0:35 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:24:48.452 task 0:35 return, use:0 S
+2018-11-15 13:24:48.452 task 0:35 deleted
+2018-11-15 13:24:48.541 task 8:34 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 13:24:48.541 task 8:34 return, use:0 S
+2018-11-15 13:24:48.541 task 8:34 deleted
+2018-11-15 16:26:09.730 main: IMFRcvBufferLength = 131072.
+2018-11-15 16:26:09.730 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 16:26:09.901 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-15 16:26:09.901 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-15 16:26:09.901 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-15 16:26:09.730 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-15 16:26:09.899 CImfConnection::connect register successful. OppProcID: 0 OppProcHandle: 0
+2018-11-15 16:26:09.902 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-15 16:26:10.024 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 16:26:10.230 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 16:26:10.230 begin to handle events.........
+2018-11-15 16:26:11.220 task 0:33 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 16:26:11.220 task 0:33 return, use:0 S
+2018-11-15 16:26:11.220 task 0:33 deleted
+2018-11-15 16:26:14.906 CImfTaskMgr::addAssistTask taskmgr 254 add assist task 33
+2018-11-15 16:26:14.906 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_SYNWAIT
+2018-11-15 16:26:14.906 task 2:33 created, cmd:0, len:1012, src[65535,101,254,33]
+2018-11-15 16:26:14.906 task 2:33 return, use:0 S
+2018-11-15 16:26:14.906 task 2:33 deleted
+2018-11-15 16:26:14.918 task 2:34 created, cmd:0, len:192, src[1,1,23,34187]
+2018-11-15 16:26:14.918 CImfTaskMgr::enqueueMsg task 254:33 awoken, cmd:0
+2018-11-15 16:26:14.918 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_EXEC
+2018-11-15 16:26:14.918 task 254:33 deleted
+2018-11-15 16:26:14.918 task 2:34 return, use:0 S
+2018-11-15 16:26:14.918 task 2:34 deleted
+2018-11-15 16:26:14.918 task 2:35 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 16:26:14.918 task 2:35 return, use:0 S
+2018-11-15 16:26:14.918 task 2:35 deleted
+2018-11-15 16:29:04.573 main: IMFRcvBufferLength = 131072.
+2018-11-15 16:29:04.573 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 16:29:04.692 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-15 16:29:04.693 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-15 16:29:04.693 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-15 16:29:08.988 main: IMFRcvBufferLength = 131072.
+2018-11-15 16:29:08.988 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 16:29:09.139 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-15 16:29:10.498 main: IMFRcvBufferLength = 131072.
+2018-11-15 16:29:10.498 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 16:29:10.641 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-15 16:29:10.642 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-15 16:29:10.642 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-15 16:29:11.462 main: IMFRcvBufferLength = 131072.
+2018-11-15 16:29:11.462 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 16:29:11.567 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-15 16:29:10.498 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-15 16:29:10.637 CImfConnection::connect register successful. OppProcID: 0 OppProcHandle: 0
+2018-11-15 16:29:10.644 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-15 16:29:10.804 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 16:29:11.191 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 16:29:11.191 begin to handle events.........
+2018-11-15 16:29:11.969 task 0:33 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 16:29:11.969 task 0:33 return, use:0 S
+2018-11-15 16:29:11.969 task 0:33 deleted
+2018-11-15 16:29:14.342 CImfTaskMgr::addAssistTask taskmgr 254 add assist task 33
+2018-11-15 16:29:14.342 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_SYNWAIT
+2018-11-15 16:29:14.342 task 2:33 created, cmd:0, len:1012, src[65535,103,254,33]
+2018-11-15 16:29:14.342 task 2:33 return, use:0 S
+2018-11-15 16:29:14.342 task 2:33 deleted
+2018-11-15 16:29:14.426 task 2:34 created, cmd:0, len:192, src[1,1,23,34242]
+2018-11-15 16:29:14.426 CImfTaskMgr::enqueueMsg task 254:33 awoken, cmd:0
+2018-11-15 16:29:14.426 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_EXEC
+2018-11-15 16:29:14.426 task 254:33 deleted
+2018-11-15 16:29:14.426 task 2:34 return, use:0 S
+2018-11-15 16:29:14.426 task 2:34 deleted
+2018-11-15 16:29:14.426 task 2:35 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 16:29:14.426 task 2:35 return, use:0 S
+2018-11-15 16:29:14.426 task 2:35 deleted
+2018-11-15 16:32:01.813 main: IMFRcvBufferLength = 131072.
+2018-11-15 16:32:01.813 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-15 16:32:02.031 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-15 16:32:02.031 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-15 16:32:02.031 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-15 16:32:01.813 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-15 16:32:02.030 CImfConnection::connect register successful. OppProcID: 0 OppProcHandle: 0
+2018-11-15 16:32:02.032 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-15 16:32:02.215 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 16:32:03.032 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-15 16:32:03.045 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-15 16:32:03.045 begin to handle events.........
+2018-11-15 16:32:04.033 task 0:33 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 16:32:04.033 task 0:33 return, use:0 S
+2018-11-15 16:32:04.033 task 0:33 deleted
+2018-11-15 16:32:10.981 CImfTaskMgr::addAssistTask taskmgr 254 add assist task 33
+2018-11-15 16:32:10.981 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_SYNWAIT
+2018-11-15 16:32:10.981 task 2:33 created, cmd:0, len:1012, src[65535,105,254,33]
+2018-11-15 16:32:10.982 task 2:33 return, use:0 S
+2018-11-15 16:32:10.982 task 2:33 deleted
+2018-11-15 16:32:11.000 task 2:34 created, cmd:0, len:192, src[1,1,23,34297]
+2018-11-15 16:32:11.000 CImfTaskMgr::enqueueMsg task 254:33 awoken, cmd:0
+2018-11-15 16:32:11.000 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_EXEC
+2018-11-15 16:32:11.000 task 254:33 deleted
+2018-11-15 16:32:11.000 task 2:34 return, use:0 S
+2018-11-15 16:32:11.000 task 2:34 deleted
+2018-11-15 16:32:11.000 task 2:35 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 16:32:11.000 task 2:35 return, use:0 S
+2018-11-15 16:32:11.000 task 2:35 deleted
+2018-11-15 16:32:32.032 task 0:34 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 16:32:32.032 task 0:34 return, use:0 S
+2018-11-15 16:32:32.032 task 0:34 deleted
+2018-11-15 16:32:32.223 task 8:33 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-15 16:32:32.223 task 8:33 return, use:0 S
+2018-11-15 16:32:32.223 task 8:33 deleted
+2018-11-16 09:19:49.534 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:19:49.534 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:19:49.535 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-16 09:21:33.002 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:21:33.002 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:21:33.011 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:21:43.048 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:21:43.050 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:21:43.050 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:21:43.050 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:21:43.048 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:21:43.068 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:21:43.069 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:21:44.070 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:21:44.071 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:21:45.069 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:21:45.071 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:21:46.070 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:21:46.072 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:21:47.070 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:21:47.073 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:21:48.050 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:21:48.070 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:21:49.070 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:21:50.069 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:21:51.070 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:21:52.069 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:21:53.070 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:21:54.069 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:21:55.070 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:21:56.070 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:21:57.070 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:21:58.070 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:21:58.086 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:21:58.086 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:21:59.070 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:21:59.087 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:22:00.070 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:22:00.088 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:22:01.070 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:22:01.088 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:22:02.070 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:22:02.089 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:09.598 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:09.599 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:09.599 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:11.806 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:11.806 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:12.923 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:12.923 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:13.441 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:13.441 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:11.806 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:13.987 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:13.987 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:13.989 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-16 09:23:14.685 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:14.686 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:12.923 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:15.007 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:15.007 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:15.258 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:15.259 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:15.374 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:15.374 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:13.441 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:15.598 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:15.598 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:15.866 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:15.866 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:15.876 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:15.876 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:16.113 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:16.113 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:16.127 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:16.128 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:16.526 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:16.526 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:14.686 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:15.007 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:15.259 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:15.374 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:15.599 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:15.867 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:15.876 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:17.947 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:17.947 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:16.114 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:16.128 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:16.527 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:19.636 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:23:19.637 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:23:19.637 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:23:19.637 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:23:19.726 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:19.726 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:17.948 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:19.636 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:19.638 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:23:19.638 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:20.639 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:20.640 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:19.726 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:21.844 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:23:21.848 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:23:21.848 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:23:21.848 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:23:22.960 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:23:22.962 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:23:22.962 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:23:22.963 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:23:23.478 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:23:23.480 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:23:23.481 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:23:23.481 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:23:21.639 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:21.640 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:22.638 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:22.640 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:21.844 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:21.850 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:23:21.851 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:22.850 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:22.851 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:24.724 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:23:24.726 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:23:24.726 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:23:24.726 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:23:22.960 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:22.964 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:23:22.964 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:23.965 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:23.965 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:25.044 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:23:25.046 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:23:25.046 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:23:25.046 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:23:25.297 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:23:25.300 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:23:25.300 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:23:25.301 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:23:25.411 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:23:25.416 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:23:25.416 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:23:25.416 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:23:23.478 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:23.482 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:23:23.483 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:24.482 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:24.484 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:23.639 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:23.641 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:24.637 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:24.639 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:25.636 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:23:25.641 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:23:25.641 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:23:25.641 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:23:23.851 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:23.852 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:24.850 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:24.852 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:25.904 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:23:25.909 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:23:25.909 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:23:25.909 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:23:25.914 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:23:25.918 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:23:25.919 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:23:25.919 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:23:26.152 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:23:26.157 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:23:26.157 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:23:26.158 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:23:26.166 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:23:26.171 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:23:26.171 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:23:26.171 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:23:26.565 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:23:26.567 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:23:26.567 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:23:26.567 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:23:24.724 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:24.728 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:23:24.728 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:25.727 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:25.729 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:24.964 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:24.965 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:25.965 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:25.966 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:25.044 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:25.048 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:23:25.048 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:26.048 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:26.050 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:25.297 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:25.302 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:23:25.303 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:26.302 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:26.304 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:25.411 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:25.419 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:23:25.419 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:26.419 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:26.421 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:25.482 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:25.484 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:26.483 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:26.485 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:25.636 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:25.644 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:23:25.644 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:26.644 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:26.646 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:25.639 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:26.639 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:25.851 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:25.853 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:26.845 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:26.850 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:25.904 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:25.911 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:23:25.912 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:26.912 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:26.914 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:25.914 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:25.921 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:23:25.922 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:26.922 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:26.924 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:27.986 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:23:27.988 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:23:27.988 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:23:27.988 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:23:26.152 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:26.160 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:23:26.161 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:27.159 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:27.161 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:26.166 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:26.174 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:23:26.174 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:27.173 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:27.175 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:26.565 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:26.568 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:23:26.569 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:27.568 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:27.569 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:26.728 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:26.730 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:27.728 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:27.730 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:26.965 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:26.967 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:27.962 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:27.965 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:27.048 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:27.050 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:28.049 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:28.051 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:27.302 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:27.304 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:28.303 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:28.305 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:27.418 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:27.421 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:28.419 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:28.422 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:27.482 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:27.485 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:28.480 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:28.483 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:27.643 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:27.646 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:28.644 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:28.647 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:27.639 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:28.639 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.764 CImfAppMgr::initAppMgr connect to iMG failed!
+2018-11-16 09:23:29.766 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:23:29.767 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:23:29.767 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:23:27.851 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:28.851 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:27.912 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:27.914 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:28.912 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:28.915 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:27.922 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:27.924 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:28.922 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:28.925 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:27.986 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:27.989 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:23:27.989 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:28.990 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:28.991 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:28.160 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:28.162 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:29.159 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.162 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:28.174 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:28.176 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:29.173 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.176 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:28.569 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:28.570 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:29.568 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.570 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:28.728 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:28.731 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:29.725 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:29.727 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:28.965 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.965 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.048 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.051 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:30.046 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:30.049 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.302 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.306 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:30.299 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:30.303 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.418 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.422 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:30.413 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:30.419 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.482 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:30.483 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.643 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.648 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:30.638 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:30.644 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.638 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:30.639 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.764 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:29.768 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:23:29.768 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:30.769 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:30.770 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:29.851 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:30.851 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.912 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.915 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:30.906 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:30.912 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.922 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.925 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:30.916 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:30.922 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.990 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:29.991 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:30.990 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:30.992 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:30.160 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:30.163 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:31.154 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:31.160 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:30.174 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:30.177 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:31.168 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:31.174 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:30.569 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:30.571 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:31.565 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:31.568 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:30.728 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:31.727 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:30.965 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:31.964 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:31.049 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:32.048 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:31.303 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:32.302 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:31.419 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:32.419 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:31.483 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:32.483 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:31.643 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:32.644 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:31.638 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:32.639 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:31.768 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:31.770 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:32.769 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:32.771 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:31.850 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:32.851 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:31.911 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:32.912 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:31.921 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:32.922 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:31.989 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:31.992 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:32.988 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:32.990 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:32.159 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:33.182 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:32.173 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:33.182 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:32.569 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:33.569 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:32.728 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:33.728 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:32.965 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:33.964 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:33.049 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:34.048 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:33.303 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:34.302 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:33.419 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:34.418 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:33.483 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:34.482 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:33.644 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:34.644 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:33.639 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:34.639 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:34.673 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:34.673 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:33.769 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:33.772 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:34.765 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:23:34.769 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:33.851 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:34.851 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:33.911 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:34.912 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:33.921 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:34.922 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:33.989 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:34.990 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:34.159 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:35.160 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:34.173 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:35.174 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:34.569 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:35.569 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:34.728 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:35.728 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:34.965 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:35.964 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:35.049 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.048 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:35.303 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.302 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:35.419 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.418 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:35.483 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.482 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:35.644 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.643 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:35.639 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:35.674 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:36.639 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.675 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:35.769 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.769 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:35.850 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.851 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.883 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:36.883 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:35.911 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.912 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:35.921 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.922 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:35.989 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.990 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.159 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:37.160 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.173 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:37.174 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.568 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:37.569 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.728 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:37.728 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:36.965 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:37.965 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.000 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:38.000 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:37.049 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.049 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:37.303 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.303 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:37.419 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.418 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:37.483 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.482 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.517 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:38.517 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:37.644 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.643 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:37.639 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:37.676 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:38.638 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.676 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:37.769 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.768 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:37.851 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:37.884 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:38.850 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.884 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:37.912 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.911 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:37.922 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.921 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:37.990 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.989 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.160 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:39.160 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.174 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:39.174 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.568 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:39.569 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:38.727 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:39.728 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:39.763 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:39.763 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:38.964 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:39.001 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:39.965 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.002 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:39.048 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.049 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.082 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:40.082 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:39.303 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.302 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.335 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:40.335 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:39.419 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.419 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.450 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:40.450 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:39.483 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:39.518 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:40.482 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.519 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:39.644 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.643 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.675 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:40.675 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:39.769 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.769 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:39.851 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:39.885 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:40.850 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.886 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:39.912 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.913 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.943 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:40.943 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:39.922 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.922 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.953 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:40.953 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:39.990 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.990 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.159 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:41.159 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:41.190 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:41.190 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:40.173 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:41.173 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:41.204 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:41.204 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:40.568 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:41.568 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:41.602 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:41.602 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:40.727 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:40.764 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:41.727 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:41.764 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:40.966 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:41.003 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:41.965 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:42.003 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:41.049 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:41.084 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:42.049 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:42.084 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:41.302 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:41.336 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:42.303 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:42.337 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:41.418 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:41.450 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:42.419 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:42.451 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:41.482 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:41.519 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:42.483 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:42.520 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:41.643 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:41.675 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:42.644 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:42.676 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:41.768 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:42.769 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:41.912 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:41.943 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:42.912 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:42.944 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:41.922 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:41.953 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:42.922 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:42.954 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:41.990 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:42.990 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:43.026 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:43.026 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:42.160 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:42.191 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:43.160 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:43.192 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:42.174 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:42.205 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:43.174 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:43.206 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:42.569 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:42.603 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:43.568 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:43.603 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:42.728 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:42.765 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:43.727 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:43.765 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:43.049 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:43.085 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:44.049 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:44.085 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:43.303 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:43.338 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:44.303 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:44.338 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:43.419 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:43.452 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:44.419 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:44.452 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:43.643 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:43.676 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:44.644 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:44.677 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:43.768 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:44.769 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:44.802 CImfConnection::connect connect failed, error: 0, The operation completed successfully.
+
+2018-11-16 09:23:44.802 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:43.911 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:43.944 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:44.912 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:44.945 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:43.921 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:43.954 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:44.922 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:44.955 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:43.990 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:44.026 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:44.990 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:45.027 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:44.160 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:44.192 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:45.160 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:45.193 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:44.174 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:44.206 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:45.174 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:45.207 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:44.569 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:44.604 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:45.568 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:45.604 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:45.768 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:45.802 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:46.769 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:46.803 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:45.989 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:46.027 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:46.990 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:47.028 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:47.768 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:47.803 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:48.769 cannot call sendLocalAsynMsg() at initial stage!
+2018-11-16 09:23:48.804 CImfAppMgr::sendSynMsg the connection to iMG is interrupted !
+2018-11-16 09:23:53.116 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:23:53.116 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:23:53.118 CImfAppMgr::initAppMgr register failed, ret -12.
+2018-11-16 09:23:53.118 CImfConnMgr::initConn2Img Invalid img address. IP: 173.173.21.2 Port: 8800
+2018-11-16 09:24:46.271 main: IMFRcvBufferLength = 131072.
+2018-11-16 09:24:46.271 CImfAppMgr::initAppMgr get msg queue size of iMF failed, will use the default value!
+2018-11-16 09:24:46.403 CImfAppMgr::initAppMgr enable High Resolution Timer!
+2018-11-16 09:24:46.403 CImfAppMgr::initAppMgr timer count limit using -1 (default).
+2018-11-16 09:24:46.403 CImfAppMgr::initAppMgr CImfAppMgr init success.
+2018-11-16 09:24:46.271 CImfConnection::connect begin to connect. OppAddr: 173.173.21.2 OppPortNumber: 8800 PipeType: 0
+2018-11-16 09:24:46.402 CImfConnection::connect register successful. OppProcID: 0 OppProcHandle: 0
+2018-11-16 09:24:46.404 CImfTaskMgr::addStaticTask taskmgr 0 add static task 1
+2018-11-16 09:24:46.725 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-16 09:24:46.994 CImfAppMgr::subscribe success subscribe command 31703.
+2018-11-16 09:24:46.994 begin to handle events.........
+2018-11-16 09:24:47.984 task 0:33 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-16 09:24:47.990 task 0:33 return, use:0 S
+2018-11-16 09:24:47.990 task 0:33 deleted
+2018-11-16 09:24:54.242 CImfTaskMgr::addAssistTask taskmgr 254 add assist task 33
+2018-11-16 09:24:54.242 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_SYNWAIT
+2018-11-16 09:24:54.242 task 2:33 created, cmd:0, len:1012, src[65535,115,254,33]
+2018-11-16 09:24:54.242 task 2:33 return, use:0 S
+2018-11-16 09:24:54.242 task 2:33 deleted
+2018-11-16 09:24:54.279 task 2:34 created, cmd:0, len:192, src[1,1,23,56410]
+2018-11-16 09:24:54.279 CImfTaskMgr::enqueueMsg task 254:33 awoken, cmd:0
+2018-11-16 09:24:54.279 CImfTask::setStatusWithLog taskmgr 254 task 33 become TASK_EXEC
+2018-11-16 09:24:54.279 task 254:33 deleted
+2018-11-16 09:24:54.280 task 2:34 return, use:0 S
+2018-11-16 09:24:54.280 task 2:34 deleted
+2018-11-16 09:24:54.280 task 2:35 created, cmd:31020, len:4, src[0,0,0,0]
+2018-11-16 09:24:54.280 task 2:35 return, use:0 S
+2018-11-16 09:24:54.280 task 2:35 deleted
